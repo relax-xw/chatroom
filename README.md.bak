@@ -6,10 +6,10 @@
    ```
   - 技术点：NodeJS 
 
-  - 服务端server.js
+  - server.js
     + 广播
     + 私聊
 
 
-  - 客户端client.js
+  - client.js
   
